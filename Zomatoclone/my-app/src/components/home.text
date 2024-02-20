@@ -1,0 +1,71 @@
+<section className="meal-type-list-item">
+          <div className="list-item-image">
+            <img src="./images/meal-type.png" alt="" />
+          </div>
+          <section className="list-item-content">
+            <h3 className="list-item-content-title">Breakfast</h3>
+            <p className="list-item-content-sub-title">
+              Start your day with exclusive breakfast options
+            </p>
+          </section>
+        </section>
+
+        <section className="meal-type-list-item">
+          <div className="list-item-image">
+            <img src="./images/meal-type.png" alt="" />
+          </div>
+          <section className="list-item-content">
+            <h3 className="list-item-content-title">Breakfast</h3>
+            <p className="list-item-content-sub-title">
+              Start your day with exclusive breakfast options
+            </p>
+          </section>
+        </section>
+
+        <section className="meal-type-list-item">
+          <div className="list-item-image">
+            <img src="./images/meal-type.png" alt="" />
+          </div>
+          <section className="list-item-content">
+            <h3 className="list-item-content-title">Breakfast</h3>
+            <p className="list-item-content-sub-title">
+              Start your day with exclusive breakfast options
+            </p>
+          </section>
+        </section>
+
+        <section className="meal-type-list-item">
+          <div className="list-item-image">
+            <img src="./images/meal-type.png" alt="" />
+          </div>
+          <section className="list-item-content">
+            <h3 className="list-item-content-title">Breakfast</h3>
+            <p className="list-item-content-sub-title">
+              Start your day with exclusive breakfast options
+            </p>
+          </section>
+        </section>
+
+        <section className="meal-type-list-item">
+          <div className="list-item-image">
+            <img src="./images/meal-type.png" alt="" />
+          </div>
+          <section className="list-item-content">
+            <h3 className="list-item-content-title">Breakfast</h3>
+            <p className="list-item-content-sub-title">
+              Start your day with exclusive breakfast options
+            </p>
+          </section>
+        </section>
+
+        <section className="meal-type-list-item">
+          <div className="list-item-image">
+            <img src="./images/meal-type.png" alt="" />
+          </div>
+          <section className="list-item-content">
+            <h3 className="list-item-content-title">Breakfast</h3>
+            <p className="list-item-content-sub-title">
+              Start your day with exclusive breakfast options
+            </p>
+          </section>
+        </section>

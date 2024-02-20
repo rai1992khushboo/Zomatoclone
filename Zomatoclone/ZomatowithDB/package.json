@@ -1,0 +1,21 @@
+{
+  "name": "firstexpressjsproject",
+  "version": "0.0.1",
+  "description": "MyFirstProject",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "KhushbooRai",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1",
+    "pug": "^3.0.2",
+    "razorpay": "^2.9.2"
+  }
+}
